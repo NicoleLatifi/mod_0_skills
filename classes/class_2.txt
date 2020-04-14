@@ -1,0 +1,13 @@
+Class: Waiter
+
+Attributes:
+name (string)
+hourlyWage (float)
+trained (boolean)
+daysScheduled (array)
+
+Methods:
+changeName (Change waiter's name: name = "Bob")
+giveOneDollarRaise (add 1 to hourlyWage: hourlyWage + 1)
+train (Changes trained to true: trained = true)
+addDayScheduled (Add a day to daysScheduled: daysScheduled.push("Saturday"))
