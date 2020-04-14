@@ -1,0 +1,14 @@
+Class: Table
+
+Attributes:
+number (integer)
+numberOfChairs (integer)
+reserved (boolean)
+waiterAssigned (string)
+bused (boolean)
+
+Methods:
+addChair (Increase numberOfChairs by 1: numberOfChairs + 1)
+reserve (Makes table reserved: reserved = true)
+changeWaiterAssigned (Changes waiterAssigned: waiterAssigned = "Nicole")
+bus (Makes table bused: bused = true)
