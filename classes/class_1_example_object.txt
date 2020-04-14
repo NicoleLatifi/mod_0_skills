@@ -1,0 +1,14 @@
+Instance: three
+
+Attributes:
+number = 3
+numberOfChairs = 4
+reserved = false
+waiterAssigned = "Bob"
+bused = false
+
+Methods:
+addChair (numberOfChairs = 4 + 1, now numberOfChairs = 5)
+reserve (reserved = true)
+changeWaiterAssigned (WaiterAssigned = "Nicole")
+bus (bused = true)
