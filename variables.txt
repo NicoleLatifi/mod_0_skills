@@ -1,0 +1,9 @@
+var food = "pizza";
+var is_delicious = true;
+var food = "hamburger";
+var num2 = 2;
+var num7 = 7;
+var quotient = num7 / num2;
+var songs = ["Happy Birthday", "Twinkle Twinkle Little Star", "Rockabye baby"];
+songs.shift();
+food.length;
