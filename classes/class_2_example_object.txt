@@ -1,0 +1,13 @@
+Instance: "Nicole"
+
+Attributes:
+name = "Nicole"
+hourlyWage = 10.00
+trained = false
+daysScheduled = ["Wednesday", "Thursday", "Friday"]
+
+Methods:
+changeName (name = "Nikki")
+giveOneDollarRaise (hourlyWage = 10.00 + 1, now hourlyWage = 11.00)
+train (trained = true)
+addDayScheduled (daysScheduled.push("Saturday"), now daysScheduled = ["Wednesday", "Thursday", "Friday", "Saturday"]
